@@ -80,7 +80,7 @@ python app.py
 
 Open browser:
 
-http://127.0.0.1:5000
+https://ai-career-copilot-lwv7.onrender.com
 
 🚀 Deployment
 
@@ -97,3 +97,7 @@ Render
   "interview_questions": ["Explain REST API"],
   "job_roles": ["Backend Developer"]
 }
+
+👨‍💻 Developer
+
+Developed by Yash Bora
