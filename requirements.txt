@@ -1,7 +1,6 @@
-fastapi
-uvicorn
-python-multipart
-pydantic
+Flask
+gunicorn
+groq
 python-docx
 PyPDF2
 reportlab
